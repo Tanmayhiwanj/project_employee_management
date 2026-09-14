@@ -1,0 +1,42 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Rahul Sharma",
+        "age": 25,
+        "email": "rahul@gmail.com",
+        "department": "Data Engineering",
+        "salary": 60000
+    },
+    {
+        "employee_id": 102,
+        "name": "Amit Verma",
+        "age": 28,
+        "email": "amit@gmail.com",
+        "department": "Backend",
+        "salary": 75000
+    },
+    {
+        "employee_id": 103,
+        "name": "Sneha Patil",
+        "age": 26,
+        "email": "sneha@gmail.com",
+        "department": "Analytics",
+        "salary": 65000
+    },
+    {
+        "employee_id": 104,
+        "name": "Rohit Joshi",
+        "age": 30,
+        "email": "rohit@gmail.com",
+        "department": "Data Engineering",
+        "salary": 85000
+    },
+    {
+        "employee_id": 20509,
+        "name": "Tanmay Hiwanj",
+        "age": 23,
+        "email": "tanmayhiwanj2003@gmail.com",
+        "department": "Information_technology",
+        "salary": 55102.0
+    }
+]
