@@ -31,7 +31,7 @@ class Employee:
             "department": self.department,
             "salary": self.salary
         }
-
+ # tanmay hiwanj is pushing code
     @classmethod
     def from_dict(cls, data: dict):
         return cls(
